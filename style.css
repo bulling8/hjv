@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+.swiper {
+    width: 700px;
+    height: 600px;
+    text-align: center;
+}
+
+.header {
+    padding-top: 54px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.header__nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header__nav ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 90px;
+}
+
+.header__nav ul li {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0%;
+    color: black;
+}
+
+.header__btn {
+    background-color: #000;
+    width: 168px;
+    height: 64px;
+    border-radius: 50px;
+    padding-top: 14px;
+    padding-right: 38px;
+    padding-bottom: 14px;
+    padding-left: 38px;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0%;
+    color: #fff;
+}
+
+.xz {
+    display: flex;
+    gap: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.left {
+    margin-top: 50px;
+}
+
+.h2 {
+    font-weight: 900;
+    font-size: 76px;
+    line-height: 104.12px;
+    letter-spacing: -1%;
+    color: #FFFFFF;
+    width: 613px;
+}
+
+.h3 {
+    font-weight: 900;
+    font-size: 52px;
+    line-height: 60.06px;
+    letter-spacing: -1%;
+    color: #fff;
+    margin-top: 6px;
+    width: 613px;
+}
+
+.span {
+    font-weight: 900;
+    font-size: 52px;
+    line-height: 60.06px;
+    letter-spacing: -1%;
+    color: #000;
+    margin-top: 6px;
+}
+
+.p {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 45.6px;
+    letter-spacing: 0%;
+    margin-top: 50px;
+    color: #1C1415CC;
+    width: 613px;
+}
+
+.hh {
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 95.9px;
+    letter-spacing: -1%;
+    color: #fff;
+    margin-top: 30px;
+}
+
+.btn__div {
+    display: flex;
+    gap: 30px;
+    margin-top: 50px;
+}
+
+.btn {
+    width: 60px;
+    height: 60px;
+    border-width: 2px;
+    border: 2px solid #FFFFFF;
+    text-align: center;
+    background-color: transparent;
+    border-radius: 50px;
+}
